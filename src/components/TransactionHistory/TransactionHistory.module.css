@@ -1,0 +1,19 @@
+.history {
+  min-width: 568px;
+  background-color: rgb(236, 236, 236);
+  padding: 20px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 3px 1px rgba(71, 71, 71, 1);
+}
+
+th,
+td {
+  height: 50px;
+  background-color: rgb(61, 184, 214);
+  box-shadow: 0px 0px 1px 0px rgb(0, 0, 0);
+  text-align: center;
+}
+
+td {
+  background-color: rgb(255, 255, 255);
+}
